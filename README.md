@@ -24,3 +24,5 @@ VacationPy: Create a map that displays a point for every city in the city_data_d
 ![Fig5](https://user-images.githubusercontent.com/115572537/216932474-24881161-40d3-4a7e-bc91-925a2356f9e3.png)
 ![Fig9](https://user-images.githubusercontent.com/115572537/216932634-1c57c2e2-d1c6-4c62-a69d-b4fbab390d5e.png)
 ![Fig10](https://user-images.githubusercontent.com/115572537/216932710-214e538d-8065-42f9-9e30-85c325823b74.png)
+![Map with points](https://user-images.githubusercontent.com/115572537/216935142-867e33e4-cd2b-495a-b502-7ec197bc809f.png)
+![Hover message](https://user-images.githubusercontent.com/115572537/216935203-81f985ba-dfed-4fcc-8346-7bb442266583.png)
