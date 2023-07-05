@@ -7,11 +7,11 @@ WeatherPy:- The purpose of the WeatherPy is to visualize the weather of over 500
 VacationPy:- The purpose is to utilize the weather data skills to plan future vacations using Jupyter notebooks, the geoViews Python library and the Geoapify API and create map visualizations.
 
 # Tools
-Python
-Jupiter notebooks
-Citipy Python library
-OpenWeatherMap API
-geoViews Python library
+Python,
+Jupiter notebooks,
+Citipy Python library,
+OpenWeatherMap API,
+geoViews Python library,
 Geoapify API
 
 # Instruction
